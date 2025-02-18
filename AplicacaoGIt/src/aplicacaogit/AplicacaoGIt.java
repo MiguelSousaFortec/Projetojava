@@ -10,7 +10,7 @@ public class AplicacaoGIt {
         int num1 = scan.nextInt();
         System.out.println("Digite o segundo valor: ");
         int num2 = scan.nextInt();
-        System.out.println("A soma é: " + (num1+num2));
+        System.out.println("O resultado da soma é: " + (num1+num2));
     }
     
 }
